@@ -1,6 +1,6 @@
 # Employee Manager Project
 
-The project presenting data on the employees of a transport company, using:
+The project to automate work with data on employees of a transport company, using:
 - tables,
 - queries,
 - forms,
