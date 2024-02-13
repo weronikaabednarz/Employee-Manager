@@ -43,6 +43,6 @@ Employee income form:
 
 Reports:
 
-![10](https://github.com/weronikaabednarz/Employee-Manager/blob/main/images/report.jpg)
+![10](https://github.com/weronikaabednarz/Employee-Manager/blob/main/images/report2.jpg)
 
-![11](https://github.com/weronikaabednarz/Employee-Manager/blob/main/images/report2.jpg)
+![11](https://github.com/weronikaabednarz/Employee-Manager/blob/main/images/report.jpg)
